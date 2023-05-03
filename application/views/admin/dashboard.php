@@ -101,7 +101,7 @@
               <a href="<?= base_url('admin/drugs') ?>" class="small-box-footer">Lihat data <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
-          <!-- ./col -->
+          <!-- ./col t -->
           <!-- ./col -->
           <div class="col-lg-3 col-12">
             <!-- small box -->
